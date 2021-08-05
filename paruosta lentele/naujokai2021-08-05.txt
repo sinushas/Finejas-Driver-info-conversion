@@ -1,0 +1,25 @@
+,username,firstname,lastname,email,sysrole1
+0,dmytromalkovych,DMYTRO,MALKOVYCH,vairuotojas1@finejas.lt,student
+1,aliaksandrkuzmiankou,ALIAKSANDR,       KUZMIANKOU,vairuotojas2@finejas.lt,student
+2,oleksandrproshchyn, Oleksandr  ,Proshchyn,vairuotojas3@finejas.lt,student
+3,hennadiialieksieienko,Hennadii,Alieksieienko ,vairuotojas4@finejas.lt,student
+4,oleksandrstrelkov,Oleksandr,Strelkov,vairuotojas5@finejas.lt,student
+5,andriiustymenko,Andrii,Ustymenko,vairuotojas6@finejas.lt,student
+6,yevhenkaplii,Yevhen  ,Kaplii,vairuotojas7@finejas.lt,student
+7,borysk,Borys,Kyshka,vairuotojas8@finejas.lt,student
+8,ivana,Ivan,Avdoshko,vairuotojas9@finejas.lt,student
+9,uladzilsauma,ULADZISLAU,MASKALIOU,vairuotojas10@finejas.lt,student
+10,aliakseira,ALIAKSEI,RAMASHCHANKA,vairuotojas11@finejas.lt,student
+11,andriisl,ANDRII,SLIPENKO,vairuotojas12@finejas.lt,student
+12,tsimurma,TSIMUR,MAMEDAU,vairuotojas13@finejas.lt,student
+13,ruslandr,RUSLAN,DROBUSH,vairuotojas14@finejas.lt,student
+14,oleksiior,OLEKSII,ORLOVSKYI,vairuotojas15@finejas.lt,student
+15,antonch,ANTON,CHARKAS,vairuotojas16@finejas.lt,student
+16,andreima,ANDREI  ,  MAKSIMAU ,vairuotojas17@finejas.lt,student
+17,andreiza,ANDREI,ZAKHAROV,vairuotojas18@finejas.lt,student
+18,ramansk,RAMAN,SKURATOUSKI,vairuotojas19@finejas.lt,student
+19,siarheish,SIARHEI,SHARF,vairuotojas20@finejas.lt,student
+20,filipba,FILIP,BAYANDIN ,vairuotojas21@finejas.lt,student
+21,valeriigo,VALERII,GORPINIUK,vairuotojas22@finejas.lt,student
+22,dmytroma,DMYTRO,MALKOVYCH,vairuotojas23@finejas.lt,student
+23,andreiro,ANDREI,ROHACH,vairuotojas24@finejas.lt,student
